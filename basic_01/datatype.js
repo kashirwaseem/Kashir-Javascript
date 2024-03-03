@@ -12,5 +12,5 @@ number => 2 to the power 53
 string => "Kashir"
 bigInt = > basically used in long calculation such as tradding and etc 
 null => standalone value and it is type is object 
-symbol => symbol is used for uniqueness 
-
+symbol => symbol is used for uniqueness
+*/
