@@ -41,11 +41,11 @@
 // console.log(typeof valueInNumber4);
 // console.log(valueInNumber4);
 
-console.log("now typeconversion of number into string"); 
-let age = 24
-let StringAge = String(age)
-console.log(typeof StringAge);
-console.log(typeof age);
+// console.log("now typeconversion of number into string"); 
+// let age = 24
+// let StringAge = String(age)
+// console.log(typeof StringAge);
+// console.log(typeof age);
 // let isLogIn = "Kashir" ;
 // console.log(isLogIn);
 
@@ -55,3 +55,28 @@ console.log(typeof age);
 // 0 => false , 1 => True 
 // "" => false 
 // "kashir" => true
+
+
+let str1 = 5 ; 
+let str2 = 5 ; 
+let str3 = str1 + str2 ;
+// console.log(str3);
+
+// console.log(1+2); 
+// console.log(1+"2");
+// console.log(1+"2"+3);
+// console.log("1"+2+3+"5");
+// console.log(1+2+"5");// agar js mein shuro mein operation ajae bad me string to pahle operation hoga then concatinate hoga 
+
+let x = 3;
+const y = x++;
+
+console.log(`x:${x}, y:${y}`);
+// Expected output: "x:4, y:3"
+
+let a = 3;
+const b = ++a;
+
+console.log(`a:${a}, b:${b}`);
+// Expected output: "a:4, b:4"
+
